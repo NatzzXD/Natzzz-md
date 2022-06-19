@@ -1,1 +1,1 @@
-worker: node. --session 'session.data.json'
+web: node . --db 'mongourl'
